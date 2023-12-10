@@ -10,6 +10,7 @@ namespace Module14
     {
         static void Main(string[] args)
         {
+            Practice.Start();
         }
     }
 }
