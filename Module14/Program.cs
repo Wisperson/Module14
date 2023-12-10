@@ -11,6 +11,10 @@ namespace Module14
         static void Main(string[] args)
         {
             Practice.Start();
+            Console.WriteLine("Click for next task...");
+            Console.ReadKey();
+            Console.Clear();
+            Homework.Start();
         }
     }
 }

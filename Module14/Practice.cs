@@ -42,7 +42,7 @@ namespace Module14
 
             foreach (var entry in wordCount)
             {
-                Console.WriteLine($"{entry.Key}\t\t{entry.Value}");
+                Console.WriteLine($"{entry.Key}\t\t- {entry.Value}");
             }
         }
     }
